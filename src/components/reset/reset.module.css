@@ -1,0 +1,18 @@
+.resetBtn {
+  width: 80px;
+  height: 50px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 20px;
+  right: 25px;
+  border-radius: 8px;
+  background-color: #e74c3c;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  transition: opacity 150ms ease-in;
+}
+
+.resetBtn:hover {
+  opacity: 0.8;
+}

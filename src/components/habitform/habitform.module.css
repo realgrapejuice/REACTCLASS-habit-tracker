@@ -1,0 +1,26 @@
+.form {
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.input {
+  padding: 15px;
+  font-size: 18px;
+  background-color: #ecf0f1;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+
+.button {
+  padding: 15px;
+  font-weight: 600;
+  background-color: #16a085;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: opacity 150ms ease-in;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
